@@ -38,14 +38,14 @@
   
 ## Screenshots
 ### Amazon Product
-![Amazon Product](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/amazon.png)
+<img src="https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/amazon.png" width="80%">
 
 ### Output
-![Output](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/output.png)
+<img src="https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/output.png" width="80%">
 
 ### Json File
-![Json File](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/json.png)
+<img src="https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/json.png" width="80%">
 
 
 ### MySQL Database
-![MySQL Database](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/mysql.png)
+<img src="https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/mysql.png" width="80%">
