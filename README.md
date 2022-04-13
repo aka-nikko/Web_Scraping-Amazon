@@ -38,14 +38,14 @@
   
 ## Screenshots
 ### Amazon Product
-![]()
+![Amazon Product](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/amazon.png)
 
 ### Output
-![]()
+![Output](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/output.png)
 
 ### Json File
-![]()
+![Json File](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/json.png)
 
 
 ### MySQL Database
-![]()
+![MySQL Database](https://github.com/aka-nikko/Web_Scraping-Amazon/blob/master/screenshots/mysql.png)
